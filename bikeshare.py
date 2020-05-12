@@ -183,6 +183,7 @@ def user_stats(df,city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     
+#show raw data
 def display_data(df):
     start_loc = 0
     end_loc = 5
