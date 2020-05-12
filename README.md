@@ -13,3 +13,6 @@ bikeshare.py data files: chicago.csv, new_york_city.csv, washington.csv.
 ### Credits
 Udacity Programming for Data Science Nanodegree Program.
 
+### Requirements
+Python 3 and Pandas
+
